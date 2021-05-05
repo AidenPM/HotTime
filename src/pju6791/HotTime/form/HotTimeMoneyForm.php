@@ -15,7 +15,7 @@ class HotTimeMoneyForm implements Form {
 
         return [
 
-            "type" => "form",
+            "type" => "custom_form",
             "title" => "§l네버온라인 아이템지급",
             "content" => [
                 ["type" => "input", "text" => "§r§b* §7지급하실 금액을 적어주세요."]
